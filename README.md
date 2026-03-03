@@ -1,1 +1,0 @@
-# aws-dbt-snowflake-airbnb_project
